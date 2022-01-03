@@ -1,0 +1,33 @@
+body{}
+#fullpart{}
+.logo{}
+.logo h1{
+    
+    background: url(../images/AbandonedAnguishedCatfish-size_restricted.gif);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 100% 67%;
+    display: inline-block;
+}
+.header{}
+.menu{}
+.menu nav{}
+.menu nav ul{
+    text-decoration: none;
+}
+.menu nav ul li{
+    display: inline;
+}
+.menu nav ul li:hover{}
+.banner{
+    background: url(../images/resturent.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 255px;
+}
+.bannerpart{
+    background: #69a4fd26;
+    width: 324px;
+    margin-left: 479px;
+}
