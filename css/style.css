@@ -1,6 +1,13 @@
-body{}
-#fullpart{}
-.logo{}
+body{
+    background: azure;
+}
+#fullpart{
+    height: 1500px;
+    width: 100%;
+}
+.logo{
+    background-color: azure;
+}
 .logo h1{
     
     background: url(../images/AbandonedAnguishedCatfish-size_restricted.gif);
